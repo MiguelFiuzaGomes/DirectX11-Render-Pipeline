@@ -1,0 +1,18 @@
+TO DO LIST
+
+1. LIGHTS
+	1.3. Add multiple point lights to try to do the torches
+		1.3.1 Maybe add some manipulation to simulate the fire
+
+
+
+6. COMPUTER SHADE STAGE
+	6.1. Get working on the Edge Detection shader
+	6.2. Get working on the bloom for the torches
+
+
+JUSTIFY THE ABSENCE OF THE CAVE WITH ASSIMP NOT ALLOWING CONCAVE SHAPES 
+
+
+
+
