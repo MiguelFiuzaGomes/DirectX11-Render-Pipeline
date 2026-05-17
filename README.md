@@ -73,4 +73,4 @@ Potential future improvements include:
 
 Portfolio project page:
 
-[Portfolio Link Coming Soon]
+https://miguelfiuzagomes.github.io/portfolio/
